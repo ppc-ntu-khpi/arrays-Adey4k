@@ -101,7 +101,7 @@ public class TestResult {
 ```
 <br>
 
-##Фрагменти javadoc документації:
+## Фрагменти javadoc документації:
 
 ![](https://github.com/ppc-ntu-khpi/arrays-Adey4k/blob/master/images/arrays3.jpg "Excersice")
 
